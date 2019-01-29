@@ -18,6 +18,6 @@ class Doctor
   end
   
   def appointments
-    
+    Appointment
   end
 end
