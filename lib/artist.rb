@@ -25,7 +25,7 @@ class Artist
   end
   
   def genres
-    
+    songs.select do 
     
   end
 end
