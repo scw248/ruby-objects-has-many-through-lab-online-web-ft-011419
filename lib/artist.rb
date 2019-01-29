@@ -19,6 +19,6 @@ class Artist
   end
   
   def songs
-    
+    Song.all.select
   end
 end
